@@ -1,0 +1,17 @@
+ <table>
+  <tr>
+    <th>NAME</th>
+    <th>COLLEGE</th>
+    <th>PLACE</th>
+  </tr>
+  <tr>
+    <td>Shivaji.L</td>
+    <td>SANDUR POLYTECHNIC</td>
+    <td>YTG</td>
+  </tr>
+  <tr>
+    <td>Shaikh</td>
+    <td>SANDUR POLYTECHNIC</td>
+    <td>YTG</td>
+  </tr>
+</table> 
